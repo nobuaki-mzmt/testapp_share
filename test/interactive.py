@@ -3,7 +3,7 @@ import os
 import base64
 
 # --- CONFIGURATION ---
-BASE_PATH = r"C:\Users\nobua\OneDrive - Auburn University\paper_and_projects\tandem\tandem_model\output\test"
+BASE_PATH = "test"
 
 st.set_page_config(layout="wide", page_title="Tandem Model Sensitivity Explorer")
 
